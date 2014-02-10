@@ -102,11 +102,8 @@ PRODUCT_COPY_FILES += \
     vendor/sony/c1905/proprietary/lib/libI420colorconvert.so:system/lib/libI420colorconvert.so \
     vendor/sony/c1905/proprietary/lib/libmmcamera_wavelet_lib.so:system/lib/libmmcamera_wavelet_lib.so \
     vendor/sony/c1905/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
-    vendor/sony/c1905/proprietary/lib/libloc_adapter.so:system/lib/libloc_adapter.so \
-    vendor/sony/c1905/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/sony/c1905/proprietary/lib/libqmiservices.so:system/lib/libqmiservices.so \
     vendor/sony/c1905/proprietary/lib/libdivxdrmdecrypt.so:system/lib/libdivxdrmdecrypt.so \
-    vendor/sony/c1905/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/sony/c1905/proprietary/lib/libbtnv.so:system/lib/libbtnv.so \
     vendor/sony/c1905/proprietary/lib/libmmcamera_image_stab.so:system/lib/libmmcamera_image_stab.so \
     vendor/sony/c1905/proprietary/lib/libqmi_common_so.so:system/lib/libqmi_common_so.so \
@@ -120,7 +117,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/c1905/proprietary/lib/libqmi_csi.so:system/lib/libqmi_csi.so \
     vendor/sony/c1905/proprietary/lib/librmp.so:system/lib/librmp.so \
     vendor/sony/c1905/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
-    vendor/sony/c1905/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/sony/c1905/proprietary/lib/hw/vendor-camera.msm8960.so:system/lib/hw/vendor-camera.msm8960.so \
     vendor/sony/c1905/proprietary/lib/hw/nfc.msm8960.so:system/lib/hw/nfc.msm8960.so \
     vendor/sony/c1905/proprietary/lib/hw/vendor-lights.msm8960.so:system/lib/hw/vendor-lights.msm8960.so \
@@ -130,6 +126,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/c1905/proprietary/lib/libmmcamera_faceproc.so:system/lib/libmmcamera_faceproc.so \
     vendor/sony/c1905/proprietary/lib/libmm-audio-resampler.so:system/lib/libmm-audio-resampler.so \
     vendor/sony/c1905/proprietary/lib/libmm-abl.so:system/lib/libmm-abl.so \
+    vendor/sony/c1905/proprietary/lib/libgeofence.so:system/lib/libgeofence.so \
     vendor/sony/c1905/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/sony/c1905/proprietary/lib/lib_dlb_msd.so:system/lib/lib_dlb_msd.so \
     vendor/sony/c1905/proprietary/lib/libta.so:system/lib/libta.so \
