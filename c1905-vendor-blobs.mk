@@ -58,6 +58,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/c1905/proprietary/bin/efsks:system/bin/efsks \
     vendor/sony/c1905/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/sony/c1905/proprietary/bin/led_deamon:system/bin/led_deamon \
+    vendor/sony/c1905/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/sony/c1905/proprietary/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
     vendor/sony/c1905/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/sony/c1905/proprietary/lib/libchromatix_s5k4e1_default_video_1.so:system/lib/libchromatix_s5k4e1_default_video_1.so \
