@@ -16,7 +16,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(c1905 c1904 nicki,$(TARGET_DEVICE)),)
+ifneq ($(filter c1905 c1904 nicki,$(TARGET_DEVICE)),)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := libtime_genoff
